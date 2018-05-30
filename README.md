@@ -1,6 +1,6 @@
-# The Commons Clause
+# [Commons Clause](http://commonsclause.com)
 
-The Commons Clause is a License Condition drafted by Heather Meeker and contributed by [FOSSA](https://fossa.io).
+The [Commons Clause](http://commonsclause.com) is a License Condition drafted by Heather Meeker and contributed by [FOSSA](https://fossa.io).
 
 ```
 “Commons Clause” License Condition v0.9
