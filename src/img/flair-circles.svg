@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="575px" viewBox="0 0 500 575" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <circle id="path-1" cx="310" cy="335" r="240"></circle>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="480" height="480" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <circle id="path-3" cx="120" cy="120" r="120"></circle>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="240" height="240" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="Commons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-940.000000, -1289.000000)" fill-opacity="0" stroke-dasharray="8">
+        <g id="Group" transform="translate(940.000000, 1289.000000)" fill="#F9EFE6" stroke="#F7CAC9" stroke-width="32">
+            <use id="Oval" mask="url(#mask-2)" xlink:href="#path-1"></use>
+            <use id="Oval" mask="url(#mask-4)" opacity="0.5" xlink:href="#path-3"></use>
+        </g>
+    </g>
+</svg>
