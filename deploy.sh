@@ -1,2 +1,2 @@
 #!/bin/sh
-git subtree push --prefix src origin gh-pages
+git push origin `git subtree split --prefix src master`:gh-pages --force
