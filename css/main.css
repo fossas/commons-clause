@@ -61,6 +61,16 @@ section.letter h1 .dot
   color: #F7CAC9;
 }
 
+section.letter h2
+{
+  font-size: 80px;
+}
+
+section.letter h3
+{
+  margin-top: 40px;
+}
+
 footer
 {
   background: top left no-repeat url('../img/glyph.svg') #222222;
