@@ -19,6 +19,10 @@ p
   line-height: 1.5em;
 }
 
+a {
+  color: #3c6bdc;
+}
+
 section.letter
 {
   border: solid 16px rgba(247, 202, 201, .25);
@@ -69,6 +73,8 @@ section.letter h2
 section.letter h3
 {
   margin-top: 40px;
+  max-width: 500px;
+  font-size: 1.5em;
 }
 
 footer
