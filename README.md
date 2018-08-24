@@ -1,6 +1,6 @@
-# [Commons Clause](http://commonsclause.com)
+# [Commons Clause](https://commonsclause.com)
 
-The [Commons Clause](http://commonsclause.com) is a License Condition drafted by Heather Meeker and contributed by [FOSSA](https://fossa.io).
+The [Commons Clause](https://commonsclause.com) is a License Condition drafted by Heather Meeker and contributed by [FOSSA](https://fossa.io).
 
 ```plaintext
 “Commons Clause” License Condition v1.0
@@ -15,3 +15,7 @@ Software: [name software]
 License: [i.e. Apache 2.0]
 Licensor: [ABC company]
 ```
+
+## About
+
+Read about the Commons Clause and its purpose on the public [FAQ](https://commonsclause.com/#faq)
