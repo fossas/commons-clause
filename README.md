@@ -19,3 +19,7 @@ Licensor: [ABC company]
 ## About
 
 Read about the Commons Clause and its purpose on the public [FAQ](https://commonsclause.com/#faq)
+
+## License
+
+This repository is under the [Public Domain](https://creativecommons.org/publicdomain/zero/1.0/legalcode).
